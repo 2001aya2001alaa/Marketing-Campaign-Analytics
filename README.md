@@ -31,5 +31,21 @@
 - Recency: number of days since the last purchase
 
 ## Analysis Steps
-1- sandkja
-2- fsdfcvrv
+1. Load The Data
+2. Clean The Data 
+    1. Check the duplicates
+    2. Delete Columns with only one value
+    3. Delete Columns That will not be used
+    4. Handle Null Values
+3. Prepare The Data For Analysis
+    1. Calculate the age of customer in 2014 To cluster the customer based on their ages
+    2. Create Year, Month and Quarter For Analysis
+4. Analyze The Data
+    1. Show basic info about the data
+    2. Visualize the data 
+    3. Describe Numerical and Categorical data
+    4. Analyze the data based on the target
+5. Feature Engineering For Predictive Machine Learning Model
+    1. Classify The Customer Based on there ages (Young, Middle, Old)
+    2. Drop Unnecessary Columns In The Model
+    3. Create new features will be used in the model        
