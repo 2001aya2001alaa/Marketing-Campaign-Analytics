@@ -29,3 +29,7 @@
 - NumWebPurchases: number of purchases made through company’s web site
 - NumWebVisitsMonth: number of visits to company’s web site in the last month
 - Recency: number of days since the last purchase
+
+## Analysis Steps
+1- sandkja
+2- fsdfcvrv
